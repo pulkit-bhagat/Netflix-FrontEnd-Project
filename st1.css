@@ -35,7 +35,7 @@ img{
 	width:100%;
 	height:93vh;
     position:relative;
-    background:url("photos/BG1.jpg") no-repeat center center/cover;
+    background:url("PHOTOS/BG1.jpg") no-repeat center center/cover;
 }
 
 .showcase::after{
